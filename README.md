@@ -1,4 +1,4 @@
-````markdown
+
 # 🎙️ TalkEz
 
 **TalkEz** is a browser-based voice translation app that allows users to speak in one language, get real-time translation, and listen to the translated output in another language. It's built with **React** for the frontend and **FastAPI** for the backend translation service using the `googletrans` library.
@@ -22,9 +22,10 @@
 ### ⚙️ Backend (FastAPI)
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/R4M-0/TalkEz.git
-````
+   ```
 
 2. Create a virtual environment and install dependencies:
 
